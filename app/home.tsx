@@ -18,6 +18,10 @@ export function LampDemo() {
         className="mt-8 bg-gradient-to-br from-slate-300 to-slate-500 py-4 bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
       >
         Welcome to <br/> The <span className="font-bold  text-white">Lazy</span> Chef
+        <br/>
+        <br/>
+        <span className="text-xl font-bold tracking-wide text-white
+        drop-shadow-2xl">Where taste meets the Myth!</span>
       </motion.h1>
     </LampContainer>
     </div>
