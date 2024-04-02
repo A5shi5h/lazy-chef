@@ -4,7 +4,7 @@ import { LayoutGrid } from "../components/ui/layout-grid";
  
 export function LayoutGridDemo() {
   return (
-    <div id="gallery" className="h-screen py-20 w-full block  bg-[#020617]">
+    <div id="gallery" className="h-screen py-20 w-full block  bg-[#020617] relative">
       <LayoutGrid cards={cards} />
       <h1 className="text-white text-center"><span>Click on the images to view</span><br/><br/>
       <button className="px-12 py-4 rounded-full bg-[#1ED760] font-bold text-white tracking-widest uppercase transform hover:scale-105 hover:bg-[#21e065] transition-colors duration-200">
