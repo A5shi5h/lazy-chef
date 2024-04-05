@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { LampDemo } from "./home";
 import Navbar from "./navbar";
 import About from "./about";

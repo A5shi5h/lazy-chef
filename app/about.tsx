@@ -2,6 +2,7 @@ import Image from 'next/image'
 import React from 'react'
 
 const About = () => {
+
   return (
     <>
       <div className='about bg-[#020617] h-auto w-full block md:flex' id='about'>
